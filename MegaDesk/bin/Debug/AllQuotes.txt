@@ -1,0 +1,24 @@
+Name: Smitty
+Rosewood
+1/29/2020 6:22:54 AM
+Width: 30
+Depth: 24
+Drawers: 3
+Rush Time: 3
+Total Cost: 1280
+Name: Connor
+Rosewood
+1/29/2020 6:26:17 AM
+Width: 40
+Depth: 20
+Drawers: 4
+Rush Time: 5
+Total Cost: 1290
+Name: Richard
+Laminate
+1/29/2020 3:21:23 PM
+Width: 96
+Depth: 48
+Drawers: 6
+Rush Time: 3
+Total Cost: 5288

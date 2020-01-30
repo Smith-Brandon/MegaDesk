@@ -1,0 +1,10 @@
+C:\Users\mormo\source\repos\MegaDesk\MegaDesk\bin\x64\Debug\MegaDesk.exe.config
+C:\Users\mormo\source\repos\MegaDesk\MegaDesk\bin\x64\Debug\MegaDesk.exe
+C:\Users\mormo\source\repos\MegaDesk\MegaDesk\bin\x64\Debug\MegaDesk.pdb
+C:\Users\mormo\source\repos\MegaDesk\MegaDesk\obj\x64\Debug\MegaDesk.AddQuote.resources
+C:\Users\mormo\source\repos\MegaDesk\MegaDesk\obj\x64\Debug\MegaDesk.MainMenu.resources
+C:\Users\mormo\source\repos\MegaDesk\MegaDesk\obj\x64\Debug\MegaDesk.Properties.Resources.resources
+C:\Users\mormo\source\repos\MegaDesk\MegaDesk\obj\x64\Debug\MegaDesk.csproj.GenerateResource.cache
+C:\Users\mormo\source\repos\MegaDesk\MegaDesk\obj\x64\Debug\MegaDesk.exe
+C:\Users\mormo\source\repos\MegaDesk\MegaDesk\obj\x64\Debug\MegaDesk.pdb
+C:\Users\mormo\source\repos\MegaDesk\MegaDesk\obj\x64\Debug\MegaDesk.csprojAssemblyReference.cache
