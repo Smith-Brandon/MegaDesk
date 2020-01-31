@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace MegaDesk
 {
@@ -10,7 +11,34 @@ namespace MegaDesk
     {
         int rushCost;
         int totalCost;
-        
+
+        struct rushPrices 
+        {
+            public string rush3_1000;
+            public string rush3_2000;
+            public string rush3_2001;
+            public string rush5_1000;
+            public string rush5_2000;
+            public string rush5_2001;
+            public string rush7_1000;
+            public string rush7_2000;
+            public string rush7_2001;
+        }
+        rushPrices[] rushPriceArray = new rushPrices[9];
+        internal int GetRushOrder() {
+
+            int counter = 1;
+            StreamReader AllQuotesDoc = new StreamReader("AllQuotes.json");
+
+            while (AllQuotesDoc.EndOfStream == false)
+            {
+                string line = AllQuotesDoc.ReadLine();
+                rushPriceArray[counter].rush3_1000 = line;
+            }
+
+                return rushCost;
+        }
+
         internal int CalculateQuote(int area, int materialCost, int drawerCost, int rush)
         {
 
